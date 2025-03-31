@@ -2,9 +2,9 @@
 Predicting customer churn using machine learning to help businesses proactively retain customers. This project uses real-world telecom data and applies multiple classification models to identify customers who are likely to leave the service.
 
 ## **Dataset**
-Source: Telco Customer Churn - Kaggle
-Records: 7,043
-Features: Demographics, service usage, account information, churn status
+**Source:** Telco Customer Churn - Kaggle<br>
+**Records:** 7,043<br>
+**Features:** Demographics, service usage, account information, churn status
 
 ## **Project Objective**
 To analyze customer behavior and build predictive models that estimate the likelihood of a customer churning. The project aims to:
@@ -18,10 +18,10 @@ Python (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib)
 Jupyter Notebook
 
 **Machine Learning Models:**
-Logistic Regression
-Random Forest
-K-Nearest Neighbors (KNN)
-Support Vector Machine (SVM)
+Logistic Regression<br>
+Random Forest<br>
+K-Nearest Neighbors (KNN)<br>
+Support Vector Machine (SVM)<br>
 Gradient Boosting
 
 ## **Exploratory Data Analysis (EDA)**
@@ -32,9 +32,9 @@ Visualized churn rates by contract type, tenure, and monthly charges
 Found that short-term contracts and high monthly charges were key churn indicators
 
 ## **Model Building**
-Each model was trained and evaluated using:
-Train/Test Split: 80/20
-Evaluation Metrics: Accuracy, Precision, Recall, F1-score, ROC AUC
+Each model was trained and evaluated using:<br>
+Train/Test Split: 80/20 <br>
+Evaluation Metrics: Accuracy, Precision, Recall, F1-score, ROC AUC<br>
 Feature Importance visualized for tree-based models
 
 ## **Final Model Performance:**
