@@ -7,14 +7,15 @@ Predicting customer churn using machine learning to help businesses proactively 
 **Features:** Demographics, service usage, account information, churn status
 
 ## **Project Objective**
-To analyze customer behavior and build predictive models that estimate the likelihood of a customer churning. The project aims to:
+To analyze customer behavior and build predictive models that estimate the likelihood of a customer churning. <br>
+**The project aims to:**
 Identify key factors influencing customer churn
 Build a high-performing machine learning model
 Compare model performance using accuracy and ROC AUC
 Provide actionable insights for business decision-making
 
 ## **Tools & Technologies**
-Python (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib)
+Python (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib)<br>
 Jupyter Notebook
 
 **Machine Learning Models:**
@@ -25,17 +26,14 @@ Support Vector Machine (SVM)<br>
 Gradient Boosting
 
 ## **Exploratory Data Analysis (EDA)**
-Identified missing values and handled data types
-
-Visualized churn rates by contract type, tenure, and monthly charges
-
-Found that short-term contracts and high monthly charges were key churn indicators
+Identified missing values and handled data types.<br>
+Visualized churn rates by contract type, tenure, and monthly charges.<br>
+Found that short-term contracts and high monthly charges were key churn indicators.
 
 ## **Model Building**
 Each model was trained and evaluated using:<br>
-Train/Test Split: 80/20 <br>
-Evaluation Metrics: Accuracy, Precision, Recall, F1-score, ROC AUC<br>
-Feature Importance visualized for tree-based models
+**Train/Test Split:** 80/20 <br>
+**Evaluation Metrics:** Accuracy, Precision, Recall, F1-score, ROC AUC<br>
 
 ## **Final Model Performance:**
 | Model               | Accuracy | ROC AUC |
