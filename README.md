@@ -2,7 +2,8 @@
 Predicting customer churn using machine learning to help businesses proactively retain customers. This project uses real-world telecom data and applies multiple classification models to identify customers who are likely to leave the service.
 
 ## **Dataset**
-**Source:** Telco Customer Churn - Kaggle<br>
+**Source:** Telco Customer Churn - Kaggle <br>
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn            
 **Records:** 7,043<br>
 **Features:** Demographics, service usage, account information, churn status
 
