@@ -16,7 +16,8 @@ Provide actionable insights for business decision-making
 ## **Tools & Technologies**
 Python (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib)
 Jupyter Notebook
-Machine Learning Models:
+
+**Machine Learning Models:**
 Logistic Regression
 Random Forest
 K-Nearest Neighbors (KNN)
@@ -37,12 +38,12 @@ Evaluation Metrics: Accuracy, Precision, Recall, F1-score, ROC AUC
 Feature Importance visualized for tree-based models
 
 ## **Final Model Performance:**
-Model	Accuracy	ROC AUC
-Logistic Regression	81.69%	0.8615
-Random Forest	80.98%	0.8605
-Gradient Boosting	80.55%	0.8580
-SVM	73.53%	0.8166
-KNN	77.71%	0.7762
+Model	                 Accuracy	        ROC AUC
+Logistic Regression	    81.69%	        0.8615
+Random Forest         	80.98%	        0.8605
+Gradient Boosting	      80.55%	        0.8580
+SVM	                    73.53%	        0.8166
+KNN	                    77.71%	        0.7762
 
 ### **Logistic Regression gave the best overall performance in terms of ROC AUC and accuracy.**
 
